@@ -1,0 +1,2 @@
+# Language-Choice-In-Nigerian-Social-Media-Hate-Speech
+This project presents the first systematic analysis of Nigerian Pidgin in online hate speech on Twitter and Instagram. Using linguistically enriched annotations, it shows that Pidgin is disproportionately used in offensive and hateful posts—especially against Hausa, women, and LGBTQ+ groups, and highlights domain transfer challenges for NLP models.
